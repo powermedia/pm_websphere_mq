@@ -1,0 +1,13 @@
+*.beam
+erl_crash.dump
+echo
+sender
+receiver
+ticker
+spawner
+*~
+#*#
+.*#
+*#
+*.swp
+*.kate-swp
